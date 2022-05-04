@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="junit-platform-console-standalone-1.8.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../junit-platform-console-standalone-1.8.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../javafx-sdk-18.0.1/src.zip!/javafx.base" />
+      <root url="jar://$PROJECT_DIR$/../javafx-sdk-18.0.1/src.zip!/javafx.controls" />
+      <root url="jar://$PROJECT_DIR$/../javafx-sdk-18.0.1/src.zip!/javafx.fxml" />
+      <root url="jar://$PROJECT_DIR$/../javafx-sdk-18.0.1/src.zip!/javafx.graphics" />
+      <root url="jar://$PROJECT_DIR$/../javafx-sdk-18.0.1/src.zip!/javafx.media" />
+      <root url="jar://$PROJECT_DIR$/../javafx-sdk-18.0.1/src.zip!/javafx.swing" />
+      <root url="jar://$PROJECT_DIR$/../javafx-sdk-18.0.1/src.zip!/javafx.web" />
+    </SOURCES>
+  </library>
+</component>
